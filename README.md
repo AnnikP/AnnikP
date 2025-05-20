@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hi!
+I'm Annik, and I am currently an undergrad in computer science at Cal State Fullerton. <br>
 I'm currently learning SQL, Power BI, and Tableau.<br>I'm currently looking to improve my portfolio.
 
 
